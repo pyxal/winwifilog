@@ -1,0 +1,1 @@
+powershell .\wifiLog.ps1 >> log.txt
